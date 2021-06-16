@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/60057
 def solution(s):
     answer = len(s)
     for step in range(1,len(s)//2+1):

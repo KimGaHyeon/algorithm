@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/72410
+
 from string import ascii_lowercase
 # new_id1 = "...!@BaT#*..y.abcdefghijklm"
 new_id2 = "z-+.^."

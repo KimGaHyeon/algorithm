@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42842
 def solution(brown, yellow):
     s = brown + yellow
     for i in range(s,2,-1):

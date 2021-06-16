@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/14502
+
+
 import sys
 sys.stdin = open("input/연구소_input.txt", "r")
 

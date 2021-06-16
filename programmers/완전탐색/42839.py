@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42839
+
 from itertools import permutations
 import math
 
