@@ -22,8 +22,5 @@ def solution(record):
         elif m[0] == "Leave":
             str += dict[m[1]] + "님이 나갔습니다."
         answer.append(str)
-
     return answer
-
-
 print(solution(record))
