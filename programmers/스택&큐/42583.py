@@ -11,7 +11,6 @@ def solution(bridge_length, weight, truck_weights):
         out = queue.popleft()
         bridge_weight -= out
 
-        time+=1
         if truck_weights:
             if bridge_weight + truck_weights[0] <= weight:
                 left = truck_weights.popleft()
@@ -19,6 +18,7 @@ def solution(bridge_length, weight, truck_weights):
                 queue.append(left)
             else:
                 queue.append(0)
+        time+=1
 
         # if truck_weights:
         #     if (sum(queue) + truck_weights[0]) <= weight :
