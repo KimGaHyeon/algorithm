@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f40c6947-0dc2-4a6a-b353-380fe228c76b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/12977.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/완전탐색/42840.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/정렬/42748.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1845.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/2021 LINE/3(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12903.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12910.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12917.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/1845.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/67256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/76501.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/해시/42576.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/etc/2021 LINE/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/2021 LINE/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/etc/2021 LINE/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/2021 LINE/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/125.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/125.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/스택&amp;큐/42583.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/스택&amp;큐/42583.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/12977.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12977.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/완전탐색/42840.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/완전탐색/42840.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,19 +42,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programmers/연습문제" />
       <recent name="$PROJECT_DIR$/백준/input" />
       <recent name="$PROJECT_DIR$/programmers/2021 KAKAO BLIND RECRUITMENT" />
       <recent name="$PROJECT_DIR$/swea/input" />
       <recent name="$PROJECT_DIR$/test/2021 LIne 상반기/코딩테스트" />
-      <recent name="$PROJECT_DIR$/test/2021 LIne 상반기/단계별테스트" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,49 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.42840">
-    <configuration name="12977" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/12977.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2(3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc/2021 LINE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/2021 LINE/2(3).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.42576">
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="42748" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc/2021 LINE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/정렬/42748.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/2021 LINE/3(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="42840" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="42576" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/완전탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/해시" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/완전탐색/42840.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/해시/42576.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +134,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="연구소" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="67256" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/67256.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="76501" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/76501.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="동전" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/연구소.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/동전.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,41 +365,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="동전" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/동전.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.2(3)" />
+      <item itemvalue="Python.76501" />
+      <item itemvalue="Python.67256" />
       <item itemvalue="Python.3" />
-      <item itemvalue="Python.42748" />
-      <item itemvalue="Python.12977" />
-      <item itemvalue="Python.42840" />
+      <item itemvalue="Python.42576" />
+      <item itemvalue="Python.3(2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.42840" />
-        <item itemvalue="Python.2(3)" />
-        <item itemvalue="Python.12977" />
-        <item itemvalue="Python.42748" />
+        <item itemvalue="Python.42576" />
+        <item itemvalue="Python.3(2)" />
         <item itemvalue="Python.3" />
+        <item itemvalue="Python.67256" />
+        <item itemvalue="Python.76501" />
       </list>
     </recent_temporary>
   </component>

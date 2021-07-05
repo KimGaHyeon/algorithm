@@ -3,7 +3,6 @@ languages = ["PYTHON", "C++", "SQL"]
 preference = [7, 5, 5]
 # result = "HARDWARE"
 
-
 job = ['SI', 'CONTENTS', 'HARDWARE', 'PORTAL', 'GAME']
 job.sort()
 job_lst = [0]*5

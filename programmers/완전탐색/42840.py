@@ -13,19 +13,22 @@ def solution(answers):
     a = [1, 2, 3, 4, 5]
     b = [2, 1, 2, 3, 2, 4, 2, 5]
     c = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5]
+    a_count, b_count, c_count = 0,0,0
 
-    count = {'1':0, '2':0, '3':0}
     for i,answer in enumerate(answers):
         if answer == a[i%5]:
-            count['1']+=1
+            a_count+=1
         if answer == b[i%8]:
-            count['2']+=1
+            b_count+=1
         if answer == c[i%10]:
-            count['3']+=1
+            c_count+=1
 
-
-    for i in count.keys():
-        if count[i] == max(count.values()):
-            return i
-
+    count = {1: a_count, 2: b_count, 3: c_count}
+    top = max(count.values())
+    result = [k for k,v in count.items() if v==top]
+    return result
 print(solution(answers))
+
+
+
+
