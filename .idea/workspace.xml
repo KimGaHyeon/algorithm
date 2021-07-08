@@ -2,20 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f40c6947-0dc2-4a6a-b353-380fe228c76b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1845.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/2021 LINE/3(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12903.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12910.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12917.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/1845.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/67256.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/76501.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/해시/42576.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT/17681.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2019 KAKAO BLIND RECRUITMENT/42889.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2021 카카오 채용연계형 인턴십/81301.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12901.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12906.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12912.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12916.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12918.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12921.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12925.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12928.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12930.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12931.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12933.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12935.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12944.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12948.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1/68644.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1/70128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/탐욕법/42862.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/2021 LINE/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/2021 LINE/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/2021 LINE/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/2021 LINE/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/12977.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12977.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/완전탐색/42840.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/완전탐색/42840.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/해시/42576.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/해시/42576.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +78,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.42576">
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.17681">
+    <configuration name="12931" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc/2021 LINE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/연습문제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/2021 LINE/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/12931.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12933" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc/2021 LINE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/연습문제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/2021 LINE/3(2).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/12933.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="42576" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12948" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/해시" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/연습문제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/해시/42576.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/12948.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="67256" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17681" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/67256.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT/17681.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="76501" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="70128" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,32 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/76501.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="동전" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/동전.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1/70128.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,19 +353,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.76501" />
-      <item itemvalue="Python.67256" />
-      <item itemvalue="Python.3" />
-      <item itemvalue="Python.42576" />
-      <item itemvalue="Python.3(2)" />
+      <item itemvalue="Python.70128" />
+      <item itemvalue="Python.12933" />
+      <item itemvalue="Python.12931" />
+      <item itemvalue="Python.12948" />
+      <item itemvalue="Python.17681" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.42576" />
-        <item itemvalue="Python.3(2)" />
-        <item itemvalue="Python.3" />
-        <item itemvalue="Python.67256" />
-        <item itemvalue="Python.76501" />
+        <item itemvalue="Python.17681" />
+        <item itemvalue="Python.12948" />
+        <item itemvalue="Python.12931" />
+        <item itemvalue="Python.12933" />
+        <item itemvalue="Python.70128" />
       </list>
     </recent_temporary>
   </component>
