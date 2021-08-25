@@ -20,3 +20,5 @@ for i in range(1, len(ins)+1):
             meet[j-1] += 1
 
 print(meet)
+
+

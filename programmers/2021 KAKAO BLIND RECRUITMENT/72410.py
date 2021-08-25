@@ -16,7 +16,6 @@ def solution(new_id):
     answer = answer[1:] if answer[0] == '.' and len(answer) > 1 else answer
     answer = answer[:-1] if answer[-1] == '.' else answer
 
-
     # 5단계
     answer = 'a' if answer == '' else answer
 

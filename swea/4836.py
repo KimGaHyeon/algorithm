@@ -20,4 +20,6 @@ for test_case in range(1, T + 1):
             if red[i][0] == blue[j][0] and red[i][1] == blue[j][1]:
                 purple += 1
 
+
+
     print("#{} {}".format(test_case, purple))

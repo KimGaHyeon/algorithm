@@ -2,28 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f40c6947-0dc2-4a6a-b353-380fe228c76b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT/17681.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/2019 KAKAO BLIND RECRUITMENT/42889.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/2021 카카오 채용연계형 인턴십/81301.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12901.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12906.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12912.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12916.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12918.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12921.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12925.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12928.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12930.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12931.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12933.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12935.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12944.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12948.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1/68644.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1/70128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/탐욕법/42862.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT/17677.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT/17680.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2019 KAKAO BLIND RECRUITMENT/17680.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2019 카카오 개발자 겨울 인턴십/64061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2021 Dev-matching/77484.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2021 카카오 채용연계형 인턴십/81302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Summer&amp;Winter Coding (2019)/62048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Summer&amp;Winter Coding (~2018)/12982.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/스택&amp;큐/42586.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12915.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12922.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12926.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12940.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/12947.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/연습문제/68935.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌 2/77884.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/위클리 챌린지/82612.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/힙/42626.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/해시/42576.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/해시/42576.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/2021 LINE/3(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/2021 LINE/3(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/2021 LINE/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc/2021 LINE/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/2021 KAKAO BLIND RECRUITMENT/72410.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/2021 KAKAO BLIND RECRUITMENT/72410.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/스택&amp;큐/42587.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/스택&amp;큐/42587.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12919.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12919.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12932.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12932.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12934.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12934.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12937.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12937.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12943.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12943.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12950.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12950.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12954.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12954.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/연습문제/12969.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/연습문제/12969.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/탐욕법/42862(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/탐욕법/42862(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/탐욕법/42862.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/탐욕법/42862.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swea/4836.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/4836.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,19 +63,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/programmers/연습문제" />
       <recent name="$PROJECT_DIR$/백준/input" />
       <recent name="$PROJECT_DIR$/programmers/2021 KAKAO BLIND RECRUITMENT" />
       <recent name="$PROJECT_DIR$/swea/input" />
       <recent name="$PROJECT_DIR$/test/2021 LIne 상반기/코딩테스트" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -78,238 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17681">
-    <configuration name="12931" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/연습문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/12931.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12933" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/연습문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/12933.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12948" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/연습문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/연습문제/12948.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17681" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/2018 KAKAO BLIND RECRUITMENT/17681.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="70128" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/월간 코드 챌린지 시즌1/70128.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="문자열압축" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT/문자열압축.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="연구소" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/연구소.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="바이러스" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/바이러스.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="괄호변환" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT/괄호변환.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="카펫" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/brute force" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/brute force/카펫.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="프린터" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/stack&amp;queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/stack&amp;queue/프린터.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.17680">
     <configuration name="메뉴리뉴얼" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,6 +104,111 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/2021 KAKAO BLIND RECRUITMENT/메뉴리뉴얼.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12982" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Summer&amp;Winter Coding (~2018)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Summer&amp;Winter Coding (~2018)/12982.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17680" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/2019 KAKAO BLIND RECRUITMENT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/2019 KAKAO BLIND RECRUITMENT/17680.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="42587" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/스택&amp;큐" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/스택&amp;큐/42587.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="42626" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/힙" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/힙/42626.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="72410" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/2021 KAKAO BLIND RECRUITMENT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/2021 KAKAO BLIND RECRUITMENT/72410.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,19 +239,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.70128" />
-      <item itemvalue="Python.12933" />
-      <item itemvalue="Python.12931" />
-      <item itemvalue="Python.12948" />
-      <item itemvalue="Python.17681" />
+      <item itemvalue="Python.메뉴리뉴얼" />
+      <item itemvalue="Python.12982" />
+      <item itemvalue="Python.42587" />
+      <item itemvalue="Python.42626" />
+      <item itemvalue="Python.72410" />
+      <item itemvalue="Python.17680" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.17681" />
-        <item itemvalue="Python.12948" />
-        <item itemvalue="Python.12931" />
-        <item itemvalue="Python.12933" />
-        <item itemvalue="Python.70128" />
+        <item itemvalue="Python.17680" />
+        <item itemvalue="Python.72410" />
+        <item itemvalue="Python.42626" />
+        <item itemvalue="Python.42587" />
+        <item itemvalue="Python.12982" />
       </list>
     </recent_temporary>
   </component>
