@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f40c6947-0dc2-4a6a-b353-380fe228c76b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/greedy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[11장] 그리디문제/곱하기 혹은 더하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[11장] 그리디문제/만들 수 없는 금액.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[11장] 그리디문제/모험가길드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[11장] 그리디문제/문자열뒤집기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[11장] 그리디문제/볼링공 고르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[3장] 그리디/1이 될 때까지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[3장] 그리디/숫자카드게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[3장] 그리디/큰수의법칙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[4장] 구현/게임 개발.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[4장] 구현/상하좌우.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[4장] 구현/시각.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[4장] 구현/왕실의 나이트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT/60059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT/60061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/15686.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/18406.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/3190.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테/[11장] 그리디문제/무지의 먹방라이브2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테/[12장] 구현문제/럭키스트레이트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테/[12장] 구현문제/문자열 재정렬.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1845.py" beforeDir="false" afterPath="$PROJECT_DIR$/1845.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT/60057.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT/60057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테/[11장] 그리디문제/무지의 먹방라이브.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/[11장] 그리디문제/무지의 먹방라이브.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +68,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.볼링공 고르기">
-    <configuration name="만들 수 없는 금액" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3190">
+    <configuration name="문자열 재정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,32 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/[11장] 그리디문제" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/[12장] 구현문제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/[11장] 그리디문제/만들 수 없는 금액.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="곱하기 혹은 더하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/[11장] 그리디문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/[11장] 그리디문제/곱하기 혹은 더하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/[12장] 구현문제/문자열 재정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="모험가길드" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15686" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +140,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/[11장] 그리디문제" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/[11장] 그리디문제/모험가길드.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/15686.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="럭키스트레이트" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/[12장] 구현문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/[12장] 구현문제/럭키스트레이트.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3190" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/3190.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,20 +237,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hanoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/hanoi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.모험가길드" />
-      <item itemvalue="Python.곱하기 혹은 더하기" />
-      <item itemvalue="Python.문자열뒤집기" />
-      <item itemvalue="Python.만들 수 없는 금액" />
-      <item itemvalue="Python.볼링공 고르기" />
+      <item itemvalue="Python.럭키스트레이트" />
+      <item itemvalue="Python.문자열 재정렬" />
+      <item itemvalue="Python.hanoi" />
+      <item itemvalue="Python.15686" />
+      <item itemvalue="Python.3190" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.볼링공 고르기" />
-        <item itemvalue="Python.만들 수 없는 금액" />
-        <item itemvalue="Python.문자열뒤집기" />
-        <item itemvalue="Python.곱하기 혹은 더하기" />
-        <item itemvalue="Python.모험가길드" />
+        <item itemvalue="Python.3190" />
+        <item itemvalue="Python.15686" />
+        <item itemvalue="Python.hanoi" />
+        <item itemvalue="Python.문자열 재정렬" />
+        <item itemvalue="Python.럭키스트레이트" />
       </list>
     </recent_temporary>
   </component>
@@ -264,5 +303,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="result" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
