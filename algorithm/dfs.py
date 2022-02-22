@@ -1,6 +1,6 @@
 def dfsR(graph, v, visited):
     visited[v] = True
-    print(v)
+    print(v, end=" ")
     for i in graph[v]:
         if not visited[i]:
             dfsR(graph, i, visited)
@@ -15,7 +15,7 @@ def dfs(graph, v, visited):
             if visited[adjacent] == False:
                 visited[adjacent] = True
                 stack.append(adjacent)
-        print(node)
+        print(node, end=" ")
 
 graph = [
     [],
@@ -30,7 +30,9 @@ graph = [
 ]
 
 
-visited = [False] * len(graph)
+visited1 = [False] * len(graph)
+visited2 = [False] * len(graph)
 
-# dfsR(graph, 1, visited)
-dfs(graph, 1, visited)
+dfsR(graph, 1, visited1)
+print(" / ")
+dfs(graph, 1, visited2)
