@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f40c6947-0dc2-4a6a-b353-380fe228c76b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/bfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/bubblesort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/selectionsort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/unionfind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/doublelinkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/hashtable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/10930.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/1874.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/1920.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/1966.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/2920.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/2978.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/4195(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/4195.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/5397(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/5397.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[13장] DFS,BFS문제/연구소.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[13장] DFS,BFS문제/특정거리의도시찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[5장] DFS,BFS/미로탈출.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/[5장] DFS,BFS/음료수얼려먹기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/1074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/10814.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/10824.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/10989.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/11650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/1427.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/2747.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/2750.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/dfs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +45,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/sort" />
       <recent name="$PROJECT_DIR$/data structure" />
       <recent name="$PROJECT_DIR$/이코테/3장.그리디" />
       <recent name="$PROJECT_DIR$/이코테" />
       <recent name="$PROJECT_DIR$/programmers/연습문제" />
-      <recent name="$PROJECT_DIR$/백준/input" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/programmers/2020 KAKAO BLIND RECRUITMENT" />
@@ -80,8 +67,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selectionsort">
-    <configuration name="4195" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2747">
+    <configuration name="10814" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/4195.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/10814.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4195(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10989" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/4195(2).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/10989.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="특정거리의도시찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11650" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +118,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/[13장] DFS,BFS문제" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/[13장] DFS,BFS문제/특정거리의도시찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11650.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2747" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/2747.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubblesort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recursive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,49 +269,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/sort/bubblesort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="selectionsort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/sort/selectionsort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="unionfind" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/unionfind.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/recursive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,19 +279,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4195" />
-      <item itemvalue="Python.unionfind" />
-      <item itemvalue="Python.4195(2)" />
-      <item itemvalue="Python.bubblesort" />
-      <item itemvalue="Python.selectionsort" />
+      <item itemvalue="Python.10814" />
+      <item itemvalue="Python.11650" />
+      <item itemvalue="Python.10989" />
+      <item itemvalue="Python.recursive" />
+      <item itemvalue="Python.2747" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.selectionsort" />
-        <item itemvalue="Python.bubblesort" />
-        <item itemvalue="Python.4195(2)" />
-        <item itemvalue="Python.unionfind" />
-        <item itemvalue="Python.4195" />
+        <item itemvalue="Python.2747" />
+        <item itemvalue="Python.recursive" />
+        <item itemvalue="Python.10989" />
+        <item itemvalue="Python.11650" />
+        <item itemvalue="Python.10814" />
       </list>
     </recent_temporary>
   </component>
